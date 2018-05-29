@@ -1,0 +1,28 @@
+//list
+let urls = ['./static/json/level1/level1_0.json','./static/json/level1/level1_1.json','./static/json/level1/level1_2.json','./static/json/level1/level1_3.json']
+    for(let url of urls){
+      $.ajax({
+        url: url,
+        dataType: 'json',
+        type: 'get',
+        success: function success(data) {
+          vm.list.push(data)
+        }
+      });
+    }
+
+
+//details
+var index = window.location.href.toString().indexOf('?');
+
+    var newS = window.location.href.substr(index + 1, window.location.href.toString().length);
+    var url = './static/json/level2/level2_'+newS.split('=')[1]+'.json';
+    $.ajax({
+      url: url,
+      dataType: 'json',
+      type: 'get',
+      success: function success(data) {
+        vm.info = data;
+        vm.info.paragraph = vm.info.paragraph.split('<br/>');
+      }
+    });
