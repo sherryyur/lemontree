@@ -1,12 +1,12 @@
 {
-  		"img_url": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i1_w640.jpeg",
-  		"title": "奥克兰南区 POKENO 双人房/三房农庄",
+      "img_url": "./static/images/12B/cover.jpg",
+      "title": "The Little Cutie in CBD - 2beds next to Sky Tower",
       "code": "SKU: 0002",
-  		"price": "$130.00",
+  		"price": "$160.00",
       "id": 0,
-      "paragraph": "到 Auckland CBD 车程大约 1 小時<br/>奥克兰机场 车程大约30分钟<br/>Hamilton 车程大约45分钟<br/>Coromandol 车程大约 1 小時<br/>Quail Ridge BnB​<br/>欢迎来到我们的 life style 农场。 维多利亚风格别墅占地在两公倾的土地上。每间房都带独立卫浴。华人年轻屋主居住一楼，热情好客，可随时提供各种咨询帮助。<br/>价格： 一间房每晚130纽币，整套房三间房每晚360纽币<br/>ID#0002<br/>----------------------------------------<br/>如要预约请加我们微信客服 - 霍可家房管: ljhookerpsby<br/>电话: +64 22 580 8998<br/>电邮: admin.ponsonby@ljh.co.nz",
+      "paragraph": "This little thing’s located right in the heart of CBD - one block away from Sky Tower. You will surely benefit from this and easily access cafes, restaurants, theatres and shops. Setup --Two Double beds (1.4m*1.8m) with comfy mattresses and toppers. --All the beddings are brand new with high quality cotton --Self contained kitchen with all gears. --The apartment is recently renovated. The facilities are fairly new --No parking is needed for exploring the city, parking detail is down the page.<br/>Contact - Fiona<br/>Mobile: +64 21328006<br/>电邮: admin@lemontreeproperty.co.nz",
       "img_list": [
-        {"url_large": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i1_w1280.jpeg", "url": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i1_w160.jpeg"},
+        {"url_large": "./static/images/12B/1stbedroom.jpg", "url": "./static/images/12B/2ndbedroom.jpg"},
         {"url_large": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i2_w1241.jpeg", "url": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i2_w160.jpeg"},
         {"url_large": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i3_w1242.jpeg", "url": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i3_w160.jpeg"},
         {"url_large": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i5_w1242.jpeg", "url": "http://www.viphire.co.nz/uploads/5/1/3/9/51391965/s683362983971345598_p6_i5_w160.jpeg"},

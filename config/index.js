@@ -6,10 +6,10 @@
 //根据getEntry获取所有入口主页面
   const pages = getEntry('src/views/**/*.html');
   //每个入口页面生成一个入口添加到build中
-  
+
   const build = {
         env: require('./prod.env'),
-        assetsRoot: path.resolve(__dirname, '../dist'),
+        assetsRoot: path.resolve(__dirname, '../docs'),
         assetsSubDirectory: 'static',
         assetsPublicPath: './',
         productionSourceMap: false,//生成sourceMap: true or false
@@ -19,7 +19,7 @@
         bundleAnalyzerReport: process.env.npm_config_report
     };
   for (var pathname in pages) {
-    build[pathname] = path.resolve(__dirname, '../dist/' + pathname + '.html')
+    build[pathname] = path.resolve(__dirname, '../docs/' + pathname + '.html')
   }
 
   module.exports = {
@@ -51,4 +51,4 @@
     return entries;
   }
 
-  
+
