@@ -19,6 +19,7 @@ html{
 .header .phone {
     display: block;
     line-height: 1;
+    color: #d3874a;
 }
 .header .phone p{
     padding: 0;
@@ -34,6 +35,10 @@ html{
     display: inline-block;
     transform: scaleY(1.3);
     margin-top: .5rem;
+}
+a:hover,a:visited, a:link {
+  text-decoration: none;
+  color: #d3874a;
 }
 .container {
     max-width: 60rem;
