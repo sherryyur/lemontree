@@ -1,10 +1,10 @@
 {
       "img_url": "./static/images/3412B/cover.jpg",
       "title": "The Little Cutie in CBD - 2beds next to Sky Tower",
-      "code": "SKU: 0002",
-  		"price": "$160.00",
+      "code": "SKU: 000",
+  		"price": "$160.0/day",
       "id": 0,
-      "paragraph": "This little thing’s located right in the heart of CBD - one block away from Sky Tower. You will surely benefit from this and easily access cafes, restaurants, theatres and shops. Setup --Two Double beds (1.4m*1.8m) with comfy mattresses and toppers. --All the beddings are brand new with high quality cotton --Self contained kitchen with all gears. --The apartment is recently renovated. The facilities are fairly new --No parking is needed for exploring the city, parking detail is down the page.<br/>Contact - Fiona<br/>Mobile: +64 225998575<br/>admin@lemontreeproperty.co.nz: admin@lemontreeproperty.co.nz",
+      "paragraph": "This little thing’s located right in the heart of CBD - one block away from Sky Tower. You will surely benefit from this and easily access cafes, restaurants, theatres and shops. Setup --Two Double beds (1.4m*1.8m) with comfy mattresses and toppers. --All the beddings are brand new with high quality cotton --Self contained kitchen with all gears. --The apartment is recently renovated. The facilities are fairly new --No parking is needed for exploring the city, parking detail is down the page.",
       "img_list": [
         {"url_large": "./static/images/3412B/1stbedroom2.jpg","url": "./static/images/3412B/1stbedroom2.jpg"},
         {"url_large": "./static/images/3412B/2ndbedroom.jpg","url": "./static/images/3412B/2ndbedroom.jpg"},
