@@ -14,7 +14,7 @@
       </div>
   	</div>
     <div id="lemontree" class="container">
-    	<h2 id="wsite-com-title">Auckland Short Term</h2>
+    	<h2 id="wsite-com-title">Auckland - Short Term</h2>
     	<div class="row">
     		<div class="col-4 item-list" v-for="item in list" @click="showDetails(item.id)">
     			<p class="hoverImg"><img :src="item.img_url"></p>
@@ -22,7 +22,7 @@
     			<p class="price" v-text="'NZ'+item.price"></p>
     		</div>
     	</div>
-      <h2 id="wsite-com-title-lt">Auckland Long Term</h2>
+      <h2 id="wsite-com-title-lt">Auckland - Long Term</h2>
     	<div class="row">
     		<div class="col-4 item-list" v-for="item in longTermList" @click="showLongTermDetails(item.id)">
     			<p class="hoverImg"><img :src="item.img_url"></p>
