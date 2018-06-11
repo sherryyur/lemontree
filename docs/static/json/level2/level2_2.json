@@ -1,5 +1,5 @@
 {
-  "img_url": "./static/images/32803/_DSC9225.jpg",
+  "img_url": "./static/images/32803/exterior.jpg",
   "title": "Stylish&Fancy&SeaView CBD Studio- Skytower",
   "code": "SKU: 002",
   "price": "$150.00/Day",
@@ -8,8 +8,8 @@
   "img_list": [
 
     {
-      "url_large": "./static/images/32803/_DSC9242-Edit.jpg",
-      "url": "./static/images/32803/_DSC9242-Edit.jpg"
+      "url_large": "./static/images/32803/living.jpg",
+      "url": "./static/images/32803/living.jpg"
     },
     {
       "url_large": "./static/images/32803/_DSC9247-Edit.jpg",
