@@ -12,9 +12,12 @@ let vm = new Vue({
   },
   mounted: () => {
     var index = window.location.href.toString().indexOf('?');
-
+    var url = new URL(window.location.href.toString());
+    var type = url.searchParams.get("type");
+    var id = url.searchParams.get("id");
     var newS = window.location.href.substr(index + 1, window.location.href.toString().length);
-    var url = './static/json/level2/level2_'+newS.split('=')[1]+'.json';
+    var isLongTerm = type == 'lt';
+    var url = isLongTerm? './static/json/longlevel2/level2_'+id+'.json' : './static/json/level2/level2_'+id+'.json';
     $.ajax({
       url: url,
       dataType: 'json',

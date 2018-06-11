@@ -14,7 +14,7 @@
       </div>
   	</div>
     <div id=lemontree class=container>
-    	<h2 id=wsite-com-title>Auckland CBD</h2>
+    	<h2 id=wsite-com-title>Auckland Short Term</h2>
     	<div class=row>
     		<div class="col-4 item-list" v-for="item in list" @click=showDetails(item.id)>
     			<p class=hoverImg><img :src=item.img_url></p>
@@ -22,6 +22,14 @@
     			<p class=price v-text="'NZ'+item.price"></p>
     		</div>
     	</div>
+      <h2 id=wsite-com-title-lt>Auckland Long Term</h2>
+    	<div class=row>
+    		<div class="col-4 item-list" v-for="item in longTermList" @click=showLongTermDetails(item.id)>
+    			<p class=hoverImg><img :src=item.img_url></p>
+    			<p class=title v-text=item.title></p>
+    			<p class=price v-text="'NZ'+item.price"></p>
+    		</div>
+    	</div>
     </div>
-  <script type=text/javascript src=./static/js/manifest.a8feca834d698fa66148.js></script><script type=text/javascript src=./static/js/vendor.eb41c003bb8007e2f454.js></script><script type=text/javascript src=./static/js/index.019b1ba4f7b9884bbb2d.js></script></body>
+  <script type=text/javascript src=./static/js/manifest.a8feca834d698fa66148.js></script><script type=text/javascript src=./static/js/vendor.eb41c003bb8007e2f454.js></script><script type=text/javascript src=./static/js/index.396ea0ff241532fb383b.js></script></body>
 </html>
