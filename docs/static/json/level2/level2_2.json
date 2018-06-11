@@ -1,5 +1,5 @@
 {
-  "img_url": "./static/images/32803/exterior.jpg",
+  "img_url": "./static/images/32803/living.jpg",
   "title": "Stylish&Fancy&SeaView CBD Studio- Skytower",
   "code": "SKU: 002",
   "price": "$150.00/Day",
@@ -8,52 +8,52 @@
   "img_list": [
 
     {
-      "url_large": "./static/images/32803/living.jpg",
-      "url": "./static/images/32803/living.jpg"
+      "url_large": "./static/images/32803/exterior.jpg",
+      "url": "./static/images/32803/exterior.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9247-Edit.jpg",
-      "url": "./static/images/32803/_DSC9247-Edit.jpg"
+      "url_large": "./static/images/32803/kitchen.jpg",
+      "url": "./static/images/32803/kitchen.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9256-Edit.jpg",
-      "url": "./static/images/32803/_DSC9256-Edit.jpg"
+      "url_large": "./static/images/32803/living2.jpg",
+      "url": "./static/images/32803/living2.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9266-Edit.jpg",
-      "url": "./static/images/32803/_DSC9266-Edit.jpg"
+      "url_large": "./static/images/32803/table.jpg",
+      "url": "./static/images/32803/table.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9271.jpg",
-      "url": "./static/images/32803/_DSC9271.jpg"
+      "url_large": "./static/images/32803/living3.jpg",
+      "url": "./static/images/32803/living3.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9273-Edit.jpg",
-      "url": "./static/images/32803/_DSC9273-Edit.jpg"
+      "url_large": "./static/images/32803/balcony.jpg",
+      "url": "./static/images/32803/balcony.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9279-Edit.jpg",
-      "url": "./static/images/32803/_DSC9279-Edit.jpg"
+      "url_large": "./static/images/32803/bedroom.jpg",
+      "url": "./static/images/32803/bedroom.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9276.jpg",
-      "url": "./static/images/32803/_DSC9276.jpg"
+      "url_large": "./static/images/32803/bath.jpg",
+      "url": "./static/images/32803/bath.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9285.jpg",
-      "url": "./static/images/32803/_DSC9285.jpg"
+      "url_large": "./static/images/32803/view.jpg",
+      "url": "./static/images/32803/view.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9287.jpg",
-      "url": "./static/images/32803/_DSC9287.jpg"
+      "url_large": "./static/images/32803/gym.jpg",
+      "url": "./static/images/32803/gym.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9288.jpg",
-      "url": "./static/images/32803/_DSC9288.jpg"
+      "url_large": "./static/images/32803/gym2.jpg",
+      "url": "./static/images/32803/gym2.jpg"
     },
     {
-      "url_large": "./static/images/32803/_DSC9291.jpg",
-      "url": "./static/images/32803/_DSC9291.jpg"
+      "url_large": "./static/images/32803/pool.jpg",
+      "url": "./static/images/32803/pool.jpg"
     }
   ]
 }
